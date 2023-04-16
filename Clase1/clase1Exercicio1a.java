@@ -12,7 +12,7 @@ public class clase1Exercicio1a {
         System.out.println("Ahora un número entero mayor que el número anterior: ");
         int b = teclado.nextInt();
 
-        int i = ;
+        int i = a;
 
         while (i <= b) {
             System.out.print(i + " ");
